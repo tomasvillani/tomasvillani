@@ -2,6 +2,7 @@
 
 💻 Desarrollador web en formación  
 🎯 Enfocado en construir aplicaciones web modernas y escalables
+🌱 Actualmente profundizando mis conocimientos en React, Node.js y TypeScript  
 
 ---
 
