@@ -1,16 +1,34 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Tomás
 
-<!--
-**tomasvillani/tomasvillani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador web en formación  
+🎯 Enfocado en construir aplicaciones web modernas y escalables
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologías que manejo
+
+**Lenguajes de programación:**
+- JavaScript
+- PHP
+- Nociones básicas de Node.js, TypeScript y Python
+
+**Frameworks y librerías:**
+- Laravel (framework MVC para PHP)
+- Bootstrap (diseño responsive)
+- jQuery (manipulación del DOM, AJAX)
+
+**Frontend:**
+- HTML5 (estructura semántica)
+- CSS (estilos personalizados)
+
+**Bases de datos:**
+- MySQL (modelado, relaciones y consultas)
+
+**Herramientas y entorno de desarrollo:**
+- Git & GitHub (control de versiones)
+- Visual Studio Code (editor de código)
+- XAMPP (entorno local para desarrollo backend)
+
+---
+
+🛠️ Buscando mi primera experiencia profesional en el mundo de la programación. ¡Gracias por visitar mi perfil!
