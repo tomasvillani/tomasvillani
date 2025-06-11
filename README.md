@@ -1,7 +1,8 @@
 # ¡Hola! 👋 Soy Tomás
 
 💻 Desarrollador web en formación  
-🎯 Enfocado en construir aplicaciones web modernas y escalables
+🎯 Enfocado en construir aplicaciones web modernas y escalables  
+🌐 Puedes ver mi [portafolio en línea](https://portfolio-chi-nine-14.vercel.app/)
 
 ---
 
