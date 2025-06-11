@@ -2,7 +2,7 @@
 
 💻 Desarrollador web en formación  
 🎯 Enfocado en construir aplicaciones web modernas y escalables  
-🌐 Puedes ver mi [portafolio en línea](https://portfolio-chi-nine-14.vercel.app/)
+🌐 Puedes ver mi [portfolio en línea](https://portfolio-chi-nine-14.vercel.app/)
 
 ---
 
